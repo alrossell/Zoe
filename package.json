@@ -1,0 +1,23 @@
+{
+  "name": "zoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zoe.js",
+  "scripts": {
+    "test": "c8 node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alrossell/Zoe.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alrossell/Zoe/issues"
+  },
+  "homepage": "https://github.com/alrossell/Zoe#readme",
+  "devDependencies": {
+    "c8": "^7.5.0",
+    "mocha": "^8.3.0"
+  }
+}
